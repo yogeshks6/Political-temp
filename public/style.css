@@ -80,7 +80,10 @@
 .second-sec-left {
     font-family: "Poppins", sans-serif;
     color: rgba(80, 77, 77, 1);
-
 }
-
 /* second end */
+/* third start */
+.third-sec{
+    background-color: rgba(27, 109, 231, 0.196);
+}
+/* third end */

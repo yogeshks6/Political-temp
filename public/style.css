@@ -4,17 +4,9 @@
 /* font-family: "Poppins", sans-serif; */
 
 
-.fifty-px {
-    font-size: 50px;
-    font-weight: 700;
-    font-family: "Poppins", sans-serif;
-}
 
-.fifty-px {
-    font-size: 30px;
-    font-weight: 600;
-    font-family: "Poppins", sans-serif;
-}
+
+
 
 
 .bg-green {
@@ -25,11 +17,9 @@
     color: rgba(125, 200, 29, 1);
 }
 
-
 .hero {
     background: url(./images/main.png);
     background-size: cover;
-    height: 680px;
     background-repeat: no-repeat;
 }
 
@@ -69,3 +59,20 @@
 }
 
 /* Navbar end */
+
+/* Hero start */
+.first-sec {
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+
+.first-sec-h1 {
+    font-family: "Poppins", sans-serif;
+}
+
+.first-sec-p {
+
+    font-family: "Poppins", sans-serif;
+}
+
+/* Hero end */

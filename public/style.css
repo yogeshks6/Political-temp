@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Raleway", sans-serif; */
+/* font-family: "Poppins", sans-serif; */
+
+
+.fifty-px {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+
+.fifty-px {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.bg-green {
+    background-color: rgba(104, 176, 11, 1);
+}
+
+.color-green {
+    color: rgba(125, 200, 29, 1);
+}
+
+
+.hero {
+    background: url(./images/main.png);
+    background-size: cover;
+    height: 680px;
+    background-repeat: no-repeat;
+}
+
+.green-web-btn {
+    padding: 14px 30px;
+    font-family: "Raleway", sans-serif;
+    background-color: rgba(104, 176, 11, 1);
+    transition: all .8s;
+}
+
+.green-web-btn:hover {
+    background-color: rgba(144, 42, 245, 1);
+}
+
+.purple-web-btn {
+    padding: 14px 30px;
+    font-family: "Raleway", sans-serif;
+    background-color: rgba(144, 42, 245, 1);
+    transition: all .8s;
+}
+
+.purple-web-btn:hover {
+    background-color: rgba(104, 176, 11, 1);
+}
+
+/* Navbar start */
+.nav-logo {
+    font-family: "Raleway", sans-serif;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgba(125, 200, 29, 1);
+}
+
+/* Navbar end */

@@ -60,7 +60,7 @@
 
 /* Navbar end */
 
-/* Hero start */
+/* first start */
 .first-sec {
     padding-top: 2%;
     padding-bottom: 4%;
@@ -74,4 +74,13 @@
     font-family: "Poppins", sans-serif;
 }
 
-/* Hero end */
+/* first end */
+
+/* second start */
+.second-sec-left {
+    font-family: "Poppins", sans-serif;
+    color: rgba(80, 77, 77, 1);
+
+}
+
+/* second end */

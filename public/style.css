@@ -88,10 +88,8 @@
 .third-sec {
     font-family: "Poppins", sans-serif;
     background-color: rgba(27, 109, 231, 0.141);
-    
+
 }
-
-
 .service-card {
     transition: all .6s;
     background-color: white;

@@ -107,6 +107,17 @@
 
 
 /* Fourth section start */
-.fourth-sec {}
-
+.fourth-sec img{
+    width: 45px;
+    height: 45px;
+}
+.fourth-sec-card-p{
+    color: #504D4D;
+}
+.fourth-sec-card{
+    border: 2px solid blue;
+}
+.fourth-sec-card:hover{
+    border: 2px solid red;
+}
 /* Fourth section end */

@@ -116,11 +116,17 @@
     color: #504D4D;
 }
 
-.fourth-sec-card {}
+.fourth-sec-card {
+    transition: all 500ms ease-in-out;
+    margin-top: 100px;
+    margin-right: 20px;
+}
 
 .fourth-sec-card:hover {
     cursor: pointer;
+    margin-top: 92px;
     border-radius: 14px;
+    transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
     background: #FFF;
     box-shadow: 2px 4px 31px 0px rgba(151, 71, 255, 0.50);
 }

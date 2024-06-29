@@ -107,17 +107,22 @@
 
 
 /* Fourth section start */
-.fourth-sec img{
+.fourth-sec img {
     width: 45px;
     height: 45px;
 }
-.fourth-sec-card-p{
+
+.fourth-sec-card-p {
     color: #504D4D;
 }
-.fourth-sec-card{
-    border: 2px solid blue;
+
+.fourth-sec-card {}
+
+.fourth-sec-card:hover {
+    cursor: pointer;
+    border-radius: 14px;
+    background: #FFF;
+    box-shadow: 2px 4px 31px 0px rgba(151, 71, 255, 0.50);
 }
-.fourth-sec-card:hover{
-    border: 2px solid red;
-}
+
 /* Fourth section end */

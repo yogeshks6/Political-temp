@@ -132,3 +132,34 @@
 }
 
 /* Fourth section end */
+
+/* fifth section start */
+ .fifth-sec{
+    background-color: #07326F;
+ }
+ .white-web-btn {
+    padding: 14px 30px;
+    font-family: "Raleway", sans-serif;
+    background-color: white;
+    transition: all .8s;
+    color: black;
+}
+
+.white-web-btn:hover {
+    background-color: rgba(125, 200, 29, 1);
+    color: white;
+}
+ .fifth-white-web-btn {
+    padding: 14px 30px;
+    font-family: "Raleway", sans-serif;
+    background-color: rgba(125, 200, 29, 1) ;
+    transition: all .8s;
+    color: white;
+}
+
+.fifth-white-web-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+/* fifth section end */

@@ -161,5 +161,9 @@
     background-color: white;
     color: black;
 }
-
+.fifth-sec-img{
+    width: 40%;
+    right: 1px;
+    top: -90px;
+}
 /* fifth section end */

@@ -118,7 +118,7 @@
 
 .fourth-sec-card {
     transition: all 500ms ease-in-out;
-    margin-top: 100px;
+    margin-top: 110px;
 }
 
 .fourth-sec-card:hover {
@@ -166,7 +166,7 @@
 .fifth-sec-img {
     width: 40%;
     right: 1px;
-    top: -90px;
+    top: -105px;
 }
 
 /* fifth section end */

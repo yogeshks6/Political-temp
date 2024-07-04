@@ -134,10 +134,11 @@
 /* Fourth section end */
 
 /* fifth section start */
- .fifth-sec{
+.fifth-sec {
     background-color: #07326F;
- }
- .white-web-btn {
+}
+
+.white-web-btn {
     padding: 14px 30px;
     font-family: "Raleway", sans-serif;
     background-color: white;
@@ -149,10 +150,11 @@
     background-color: rgba(125, 200, 29, 1);
     color: white;
 }
- .fifth-white-web-btn {
+
+.fifth-white-web-btn {
     padding: 14px 30px;
     font-family: "Raleway", sans-serif;
-    background-color: rgba(125, 200, 29, 1) ;
+    background-color: rgba(125, 200, 29, 1);
     transition: all .8s;
     color: white;
 }
@@ -161,9 +163,11 @@
     background-color: white;
     color: black;
 }
-.fifth-sec-img{
+
+.fifth-sec-img {
     width: 40%;
     right: 1px;
     top: -90px;
 }
+
 /* fifth section end */
